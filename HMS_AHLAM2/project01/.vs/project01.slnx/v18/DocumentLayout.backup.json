@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\hospitalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\model\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\model\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\model\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\model\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\model\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|c:\\users\\dreea\\downloads\\backend-tasks.-main\\backend-tasks.-main\\hms_ahlam\\project01\\project01\\model\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D6A0C5-5CFE-1966-563C-1AF6FDF81136}|project01\\project01.csproj|solutionrelative:project01\\model\\availableslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\program.cs",
+              "RelativeDocumentMoniker": "project01\\program.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\program.cs",
+              "RelativeToolTip": "project01\\program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:28:46.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Doctor.cs",
+              "RelativeDocumentMoniker": "project01\\model\\Doctor.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Doctor.cs",
+              "RelativeToolTip": "project01\\model\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:45:24.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalContext.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\HospitalContext.cs",
+              "RelativeDocumentMoniker": "project01\\HospitalContext.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\HospitalContext.cs",
+              "RelativeToolTip": "project01\\HospitalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:20:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Appointment.cs",
+              "RelativeDocumentMoniker": "project01\\model\\Appointment.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Appointment.cs",
+              "RelativeToolTip": "project01\\model\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:45:45.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Patient.cs",
+              "RelativeDocumentMoniker": "project01\\model\\Patient.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\Patient.cs",
+              "RelativeToolTip": "project01\\model\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:45:03.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvailableSlot.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\AvailableSlot.cs",
+              "RelativeDocumentMoniker": "project01\\model\\AvailableSlot.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\AvailableSlot.cs",
+              "RelativeToolTip": "project01\\model\\AvailableSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:47:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "project01\\model\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\model\\MedicalRecord.cs",
+              "RelativeToolTip": "project01\\model\\MedicalRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:46:07.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

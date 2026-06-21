@@ -1,0 +1,18 @@
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\Hospital Management System\project01\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\Hospital Management System\project01\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\Hospital Management System\project01\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\Hospital Management System\project01\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.AssemblyInfoInputs.cache
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.AssemblyInfo.cs
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.csproj.CoreCompileInputs.cache
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\bin\Debug\net8.0\project01.exe
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\bin\Debug\net8.0\project01.deps.json
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\bin\Debug\net8.0\project01.runtimeconfig.json
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\bin\Debug\net8.0\project01.dll
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\bin\Debug\net8.0\project01.pdb
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.dll
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\refint\project01.dll
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.pdb
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\project01.genruntimeconfig.cache
+C:\Users\dreea\Downloads\backend-tasks.-main\backend-tasks.-main\HMS_AHLAM\project01\project01\obj\Debug\net8.0\ref\project01.dll
