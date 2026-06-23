@@ -12,11 +12,11 @@ namespace project01
     public class HospitalContext
     {
 
-        public List<Patient> Patients { get; set; } = new List<Patient>();
-        public List<Doctor> Doctors { get; set; } = new List<Doctor>();
-        public List<Appointment> Appointments { get; set; } = new List<Appointment>();
-        public List<AvailableSlot> AvailableSlots { get; set; } = new List<AvailableSlot>();
-        public List<MedicalRecord> MedicalRecords { get; set; } = new List<MedicalRecord>();
+        public List<Patient> Patients { get; set; } 
+        public List<Doctor> Doctors { get; set; }
+        public List<Appointment> Appointments { get; set; } 
+        public List<AvailableSlot> AvailableSlots { get; set; } 
+        public List<MedicalRecord> MedicalRecords { get; set; }
 
     }
 }

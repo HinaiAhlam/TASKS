@@ -8,12 +8,11 @@ namespace project01.model
 {
     public class Doctor
     {
-         public int doctorId { get; set; }
+         public int doctorId { get; set; } //system generated
         public string? doctorName { get; set; }
         public string? doctorSpecialization { get; set; }
         public string? doctorPhone { get; set; }
         public string? doctorEmail { get; set; }
         public decimal consultationFee { get; set; }
-        public List<AvailableSlot> AvailableSlots { get; set; } = new List<AvailableSlot>();
     }
 }

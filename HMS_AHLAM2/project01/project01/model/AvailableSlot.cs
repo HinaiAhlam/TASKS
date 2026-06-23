@@ -8,11 +8,11 @@ namespace project01.model
 {
     public class AvailableSlot
     {
-        public int SlotId { get; set; }
-        public int DoctorId { get; set; }
-        public string? SlotDate { get; set; }
+        public int SlotId { get; set; }//System generated
+        public int DoctorId { get; set; }//user input choosen from list of doctors 
+        public string? SlotDate { get; set; }//user input optional vaule
         public string? SlotTime { get; set; }
-        public bool IsBooked { get; set; }
+        public bool IsBooked { get; set; }//default value = false
 
     }
 }
