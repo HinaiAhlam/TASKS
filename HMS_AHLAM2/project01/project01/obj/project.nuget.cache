@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cDoEi2cqkF0=",
+  "dgSpecHash": "imXPOkHs2Hg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dreea\\Downloads\\backend-tasks.-main\\backend-tasks.-main\\HMS_AHLAM\\project01\\project01\\project01.csproj",
+  "projectFilePath": "C:\\Users\\dreea\\Downloads\\TASKS\\HMS_AHLAM2\\project01\\project01\\project01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dreea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\dreea\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
